@@ -1,10 +1,21 @@
 # facebook_clone
 
-A new Flutter project.
+Flutter project for Creating a Clone Facebook Login page using Flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Components_Used
+🖊️Stateless Widget
+🖊️Box Decoration
+🖊️Box Shadow
+🖊️Icons
+🖊️Elevated Buttons for
+   -Create New Account
+   -Forgot Password
+   -Login with Phone Number
+   -Login with Google
+🖊️TextFormFeild
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
